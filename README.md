@@ -35,7 +35,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - Felipe Valenzuela - frvalenzuela@uc.cl
 - Ariel Martinez - amartinez5@uc.cl
 - Alfonso Irarrazaval - auirarrazaval@uc.cl
-- Christian Herreros - ceherreros@uc.cl
+- Cristobal Herreros - ceherreros@uc.cl
 - José Wielandt - jmwielandt@uc.cl
 - Jessica Hormazabal - jyhormazabal@uc.cl
 
