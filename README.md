@@ -29,27 +29,24 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - Jessica Hormazabal - jyhormazabal@uc.cl
 ### Ayudantes de cátedra
 - Daniel Leal - dlleal@uc.cl
-- Jessica Hormazabal - jyhormazabal@uc.cl
 ### Ayudantes
-- Daniel Leal - dlleal@uc.cl
 - Felipe Valenzuela - frvalenzuela@uc.cl
 - Ariel Martinez - amartinez5@uc.cl
 - Alfonso Irarrazaval - auirarrazaval@uc.cl
 - Cristobal Herreros - ceherreros@uc.cl
 - José Wielandt - jmwielandt@uc.cl
-- Jessica Hormazabal - jyhormazabal@uc.cl
 
 ## Evaluaciones:
 ### Cátedra
-- Exámen - TBA
+- Exámen - Jueves 27 de junio
 
 ### Tareas - Fecha Publicación
 
-- T1 - Lunes 18 de marzo
-- T2 - Lunes 8 de abril
-- T3 - Lunes 29 de abril
-- T4 - Lunes 20 de mayo
-- T5 - Lunes 10 de junio
+- T1 - Viernes 15 de marzo
+- T2 - Viernes 5 de abril
+- T3 - Viernes 26 de abril
+- T4 - Viernes 17 de mayo
+- T5 - Viernes 7 de junio
 
 ### Controles - Fecha
 
