@@ -9,7 +9,7 @@
 
 ## Motivación
 El objetivo principal de este curso es que el alumno entienda qué es un computador, conozca cuáles son
-sus partes y sus funcionesciones y sea capaz de realizar programas para el computador. Para lograr adquirir
+sus partes, funciones y sea capaz de realizar programas para el computador. Para lograr adquirir
 estos conocimientos y habilidades se requiere por una parte adquirir el conocimiento teórico y conceptual de
 lo que es un computador, pero también ser capaz de llevarlo a la práctica en las tareas.
 
