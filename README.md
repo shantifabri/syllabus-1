@@ -35,6 +35,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - Alfonso Irarrazaval - auirarrazaval@uc.cl
 - Cristobal Herreros - ceherreros@uc.cl
 - José Wielandt - jmwielandt@uc.cl
+- Tomás Rivera - trivera1@uc.cl
 
 ## Evaluaciones:
 ### Cátedra
