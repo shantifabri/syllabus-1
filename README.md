@@ -27,7 +27,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - Yadran Eterovic - yadran@ing.puc.cl
 ### Ayudante jefe
 - Jessica Hormazabal - jyhormazabal@uc.cl
-### Ayudantes de cátedra
+### Ayudante de cátedra
 - Daniel Leal - dlleal@uc.cl
 ### Ayudantes
 - Felipe Valenzuela - frvalenzuela@uc.cl
