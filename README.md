@@ -51,7 +51,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 ### Controles - Fecha
 
-- C1 - Lunes 29 de marzo 
+- C1 - Lunes 25 de marzo 
 - C2 - Miercoles 10 abril
 - C3 - Lunes 29 de abril
 - C4 - Miercoles 15 de mayo
