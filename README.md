@@ -59,7 +59,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 - C6 - Miercoles 19 de junio
 
 ## Política de integridad académica
-Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
+Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Ciencias de la Computación.
 
 ---
 
