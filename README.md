@@ -15,6 +15,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 ## Links Importantes
 **Administrativo**
+* Información: Aspectos_Formales_IIC2343.pdf
 * Asignación Tareas: https://docs.google.com/spreadsheets/d/1NtsaQ8NPKCwHGjVcmWh1gYNo54VxO2iLMI_BHWXwNpI/edit?usp=sharing
 * Notas: https://docs.google.com/spreadsheets/d/1p6FzLBuwIUUiUbtjtc-ffOSvtmnI_6-MK9-9V0dVDzw/edit?usp=sharing
 * Recorrecciones: **En proceso**
@@ -36,7 +37,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 ## Evaluaciones:
 ### Cátedra
-- Exámen - Jueves 27 de junio
+- Examen - Jueves 27 de junio
 
 ### Tareas - Fecha Publicación
 
