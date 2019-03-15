@@ -1,4 +1,4 @@
-## IIC2343 Arquitectura de Computadores
+﻿## IIC2343 Arquitectura de Computadores
 
 ## Tabla de contenidos
  * [Motivación](#motivación)
@@ -40,7 +40,7 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 ### Tareas - Fecha Publicación
 
-- T1 - Viernes 15 de marzo
+- T1 - Viernes 15 de marzo - https://classroom.github.com/a/rdMbg6XZ
 - T2 - Viernes 5 de abril
 - T3 - Viernes 26 de abril
 - T4 - Viernes 17 de mayo
