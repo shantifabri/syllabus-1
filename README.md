@@ -15,12 +15,9 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica en l
 
 ## Links Importantes
 **Administrativo**
-* Asignación Tareas: **En proceso**
-* Notas: **En proceso**
+* Asignación Tareas: https://docs.google.com/spreadsheets/d/1NtsaQ8NPKCwHGjVcmWh1gYNo54VxO2iLMI_BHWXwNpI/edit?usp=sharing
+* Notas: https://docs.google.com/spreadsheets/d/1p6FzLBuwIUUiUbtjtc-ffOSvtmnI_6-MK9-9V0dVDzw/edit?usp=sharing
 * Recorrecciones: **En proceso**
-
-**Tutoriales:**
-* Simulación en Vivado: **En proceso**
 
 ## Contacto:
 ### Profesor
