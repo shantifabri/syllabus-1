@@ -1,0 +1,17 @@
+{
+  "input": {
+            "input1":1,
+            "input2":0
+  },
+  "circuit":[
+  {"from": "input1", "to": "not1"},
+  {"from": "input2", "to": "not2"},
+  {"from": "not1", "to": "or1"},
+  {"from": "input2", "to": "or1"},
+  {"from": "input1", "to": "or2"},
+  {"from": "not2", "to": "or2"},
+  {"from": "or1", "to": "and1"},
+  {"from": "or2", "to": "and1"},
+  {"from": "and1", "to": "output1"}
+  ]
+}

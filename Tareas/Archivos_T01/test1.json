@@ -1,0 +1,19 @@
+{
+  "input" :
+    {"input1":1,
+    "input2":0,
+    "input3":1}
+  ,
+  "circuit": [
+
+    {"from":"or1","to":"output1"},
+    {"from":"and2","to":"or1"},
+    {"from":"and1","to":"or1"},
+    {"from":"input2","to":"not1"},
+    {"from":"input1","to":"not2"},
+    {"from":"not1","to":"and1"},
+    {"from":"input3","to":"and2"},
+    {"from":"not2","to":"and2"},
+    {"from":"input1","to":"and1"}
+  ]
+}
